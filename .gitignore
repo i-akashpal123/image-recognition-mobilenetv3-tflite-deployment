@@ -1,0 +1,13 @@
+# Ignore datasets and checkpoints
+Banana Ripeness Classification Dataset/
+__pycache__/
+.ipynb_checkpoints/
+*.tfrecord
+*.h5
+*.keras
+*.tflite
+
+# Ignore temporary files
+*.log
+*.tmp
+.DS_Store
